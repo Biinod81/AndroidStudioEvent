@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="police_titre">15sp</dimen>
+    <dimen name="police_titre">30sp</dimen>
+    <dimen name="resultatDim">25sp</dimen>
+
 </resources>

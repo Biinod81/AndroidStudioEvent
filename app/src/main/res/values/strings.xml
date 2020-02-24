@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">EventApplication</string>
-    <string name="titre">Titre de ma fenêtre</string>
+    <string name="titre">Calculatrice v0</string>
     <string name="button">Button</string>
-    <string name="TextView2">...</string>
+    <string name="operande1">Opérande 1</string>
+    <string name="operande2">Opérande 2</string>
     <string name="Cliccc">Clic#</string>
+    <string name="resultat">Résultat =</string>
 </resources>
