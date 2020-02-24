@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventApplication</string>
+    <string name="titre">Titre de ma fenêtre</string>
+    <string name="button">Button</string>
+    <string name="TextView2">...</string>
+    <string name="Cliccc">Clic#</string>
+</resources>
